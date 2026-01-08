@@ -1,0 +1,2 @@
+pip install pandas scikit-learn
+python analyzer.py
